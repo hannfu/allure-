@@ -3,3 +3,5 @@ class TestLogin:
         assert 1
     def test02(self):
         assert 0
+    def test03(self):
+        assert 1
